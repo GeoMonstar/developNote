@@ -132,7 +132,7 @@ $ git clone https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git master
 #最后进入自己的工程，在自己工程的podFile第一行加上：
 source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git
 
-
+右键终端 - 显示简介 - 勾选 使用 Rosetta打开
 
 
 pod 速度慢建议倒入clash终端命令
