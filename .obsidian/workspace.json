@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "abbca82e2d0448e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6aaafa4c95ff221",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c293399e1795c32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "iOS项目工程优化/Crash 防护方案（三）：Container.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a65056108d3f3ab8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d7c9c9ceef6cc63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e953e6226b06ed9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc4c213636814c02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 384
+  },
+  "right": {
+    "id": "760a69e3151ea451",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5bbfe4faec729fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b953100150c2ba65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "iOS项目工程优化/Crash 防护方案（三）：Container.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5c293399e1795c32",
+  "lastOpenFiles": [
+    "iOS项目工程优化/Crash 防护方案（三）：Container.md",
+    "iOS项目工程优化/Crash 防护方案（四）：NSTimer.md",
+    "iOS项目工程优化/Crash 防护方案（二）：EXC_BAD_ACCESS.md",
+    "iOS项目工程优化/Crash 防护方案（六）：NSNotificationCenter.md",
+    "iOS项目工程优化/Crash 防护方案（一）：Unrecognized Selector.md",
+    "截屏2022-05-12 15.33.26.png",
+    "截屏2022-02-14 下午6.19.53.png",
+    "Flutter/Flutter.md",
+    "Flutter/Dart语言.md",
+    "iOS项目工程优化/Crash 防护方案（五）：KVO.md"
+  ]
+}
