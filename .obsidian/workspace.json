@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iOS项目工程优化/Crash 防护方案（三）：Container.md",
+                "file": "WireGuard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f31fa6ca8d5a2d92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "无敌勇士工作日记/cocoapods环境搭建.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384
+    "width": 237.5
   },
   "right": {
     "id": "760a69e3151ea451",
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iOS项目工程优化/Crash 防护方案（三）：Container.md",
+                "file": "无敌勇士工作日记/cocoapods环境搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +108,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5c293399e1795c32",
+  "active": "f31fa6ca8d5a2d92",
   "lastOpenFiles": [
+    "无敌勇士工作日记/xcode11适配.md",
+    "WireGuard.md",
     "iOS项目工程优化/Crash 防护方案（三）：Container.md",
     "iOS项目工程优化/Crash 防护方案（四）：NSTimer.md",
     "iOS项目工程优化/Crash 防护方案（二）：EXC_BAD_ACCESS.md",
@@ -104,8 +119,6 @@
     "iOS项目工程优化/Crash 防护方案（一）：Unrecognized Selector.md",
     "截屏2022-05-12 15.33.26.png",
     "截屏2022-02-14 下午6.19.53.png",
-    "Flutter/Flutter.md",
-    "Flutter/Dart语言.md",
-    "iOS项目工程优化/Crash 防护方案（五）：KVO.md"
+    "Flutter/Flutter.md"
   ]
 }
