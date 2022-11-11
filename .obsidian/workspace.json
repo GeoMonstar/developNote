@@ -49,14 +49,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "无敌勇士开发资料/测试账号.md",
+                "file": "无敌勇士开发资料/第一版.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2e26e7437bf8cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "无敌勇士开发资料/上架流程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b4f621322420a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "无敌勇士开发资料/换皮.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9b45e32fd2d32a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "无敌勇士开发资料/打包流程.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -114,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "无敌勇士开发资料/测试账号.md",
+                "file": "无敌勇士开发资料/打包流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +168,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b7797e15470fcd97",
+  "active": "c9b45e32fd2d32a9",
   "lastOpenFiles": [
+    "无敌勇士开发资料/换皮.md",
+    "无敌勇士开发资料/上架流程.md",
+    "无敌勇士开发资料/第一版.md",
+    "无敌勇士开发资料/测试账号.md",
     "无敌勇士工作日记/xcode11适配.md",
     "无敌勇士工作日记/cocoapods环境搭建.md",
-    "无敌勇士开发资料/测试账号.md",
-    "无敌勇士开发资料/第一版.md",
     "iOS项目工程优化/Crash 防护方案（三）：Container.md",
     "iOS项目工程优化/Crash 防护方案（一）：Unrecognized Selector.md",
     "iOS项目工程优化/Crash 防护方案（六）：NSNotificationCenter.md",
-    "iOS项目工程优化/Crash 防护方案（二）：EXC_BAD_ACCESS.md",
-    "截屏2022-02-14 下午6.19.53.png",
-    "WireGuard.md"
+    "iOS项目工程优化/Crash 防护方案（二）：EXC_BAD_ACCESS.md"
   ]
 }
